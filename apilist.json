@@ -36,7 +36,7 @@
   "بازار ارز": {
     "usd": {
       "symbol": "137203",
-      "name": "USD دلار",
+      "name": "دلار",
       "api": "tgju",
       "img": "Symbolsicon/ArzAzad/USD.png"
     },
