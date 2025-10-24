@@ -1,7 +1,0 @@
-# Miscellaneous
-*.class
-*.log
-.idea/
-.vscode/
-.gitignore
-coinlist.code-workspace
