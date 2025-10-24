@@ -1,0 +1,6 @@
+# Miscellaneous
+*.class
+*.log
+.idea/
+.vscode/
+coinlist.code-workspace
