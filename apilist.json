@@ -1,10 +1,18 @@
 {
-  "بازار داخلی": {
-    "Gold18": {
-      "symbol": "137121",
-      "name": "طلا 18 عیار",
+  "بازار طلا": {
+    "طلا" : {
+      "Gold18": {
+        "symbol": "137121",
+        "name": "طلا 18 عیار",
+        "api": "tgju",
+        "img": "Symbolsicon/BazarTala/Gold18.png"
+      }
+    },
+    "AbShode" : {
+      "symbol": "391293",
+      "name": "طلای آب شده",
       "api": "tgju",
-      "img": "Symbolsicon/Gold.png"
+      "img": "Symbolsicon/BazarTala/GoldAbShode.png"
     }
   },
   "ارز دیجیتال": {
@@ -12,19 +20,19 @@
       "symbol": "USDTIRT",
       "name": "تتر",
       "api": "nobitex",
-      "img": "Symbolsicon/USDT.png"
+      "img": "Symbolsicon/ArzDigital/USDT.png"
     },
     "XRP": {
       "symbol": "XRPIRT",
       "name": "ریپل",
       "api": "nobitex",
-      "img": "Symbolsicon/XRP.png"
+      "img": "Symbolsicon/ArzDigital/XRP.png"
     },
     "BTC": {
       "symbol": "BTCIRT",
       "name": "بیت‌کوین",
       "api": "nobitex",
-      "img": "Symbolsicon/BTC.png"
+      "img": "Symbolsicon/ArzDigital/BTC.png"
     }
   },
   "بازار ارز": {
@@ -33,7 +41,7 @@
         "symbol": "137203",
         "name": "USD دلار",
         "api": "tgju",
-        "img": "Symbolsicon/USD.png"
+        "img": "Symbolsicon/ArzAzad/USD.png"
       }
     }
   }
