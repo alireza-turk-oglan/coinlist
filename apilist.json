@@ -34,11 +34,17 @@
     }
   },
   "بازار ارز": {
-      "usd": {
+    "usd": {
       "symbol": "137203",
       "name": "USD دلار",
       "api": "tgju",
       "img": "Symbolsicon/ArzAzad/USD.png"
+    },
+    "eur": {
+      "symbol": "137205",
+      "name": "یورو",
+      "api": "tgju",
+      "img": "Symbolsicon/ArzAzad/Eur.png"
     }
   }
 }
