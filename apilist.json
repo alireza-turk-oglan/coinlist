@@ -1,12 +1,10 @@
 {
   "بازار طلا": {
-    "طلا" : {
-      "Gold18": {
-        "symbol": "137121",
-        "name": "طلا 18 عیار",
-        "api": "tgju",
-        "img": "Symbolsicon/BazarTala/Gold18.png"
-      }
+    "Gold18": {
+      "symbol": "137121",
+      "name": "طلا 18 عیار",
+      "api": "tgju",
+      "img": "Symbolsicon/BazarTala/Gold18.png"
     },
     "AbShode" : {
       "symbol": "391293",
