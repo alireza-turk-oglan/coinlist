@@ -34,13 +34,11 @@
     }
   },
   "بازار ارز": {
-    "ارز آزاد": {
       "usd": {
-        "symbol": "137203",
-        "name": "USD دلار",
-        "api": "tgju",
-        "img": "Symbolsicon/ArzAzad/USD.png"
-      }
+      "symbol": "137203",
+      "name": "USD دلار",
+      "api": "tgju",
+      "img": "Symbolsicon/ArzAzad/USD.png"
     }
   }
 }
